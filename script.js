@@ -6,7 +6,7 @@ const table = document.querySelector("table");
 
 function makeRow() {
   const row = document.createElement("tr");
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 30; i++) {
     const td = document.createElement("td");
     row.appendChild(td);
   }

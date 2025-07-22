@@ -17,7 +17,7 @@ body {
 td{
   height: 50px;
   width: 50px;
-  background-color: blueviolet;
+  background-color: black;
 }
 
 .red {
@@ -30,5 +30,8 @@ td{
   background-color: yellow;
 }
 .green {
-  background-color: green;
+  background-color: #00ff2a;
+}
+.white{
+  background-color: white;
 }
